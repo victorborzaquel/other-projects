@@ -14,6 +14,7 @@
 
 ## Front-end: Web
 - [Jobs Calc](https://github.com/victorborzaquel/jobscalc)
+- [Task List](https://github.com/victorborzaquel/task-list)
 - [DT Money](https://github.com/victorborzaquel/dtmoney)
 - [Doom Fire Algorithm](https://github.com/victorborzaquel/doom-fire-algorithm)
 - [Dev Finances](https://github.com/victorborzaquel/devfinances)
